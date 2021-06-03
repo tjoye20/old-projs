@@ -1,0 +1,34 @@
+{
+  "streams": [
+    {
+      "title": "first time using patch",
+      "description": "my first stream",
+      "userId": "104919874191101696864",
+      "id": 1
+    },
+    {
+      "title": "add user id",
+      "description": "this should have my user id in it",
+      "userId": "104919874191101696864",
+      "id": 2
+    },
+    {
+      "title": "testing redirectionsfsfsf",
+      "description": "should go to homepage",
+      "userId": "104919874191101696864",
+      "id": 3
+    },
+    {
+      "title": "should have my id",
+      "description": "show id testing edit",
+      "userId": "104919874191101696864",
+      "id": 4
+    },
+    {
+      "title": "Refactor - testing edit",
+      "description": "testing ",
+      "userId": "104919874191101696864",
+      "id": 5
+    }
+  ]
+}
